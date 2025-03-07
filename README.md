@@ -25,6 +25,7 @@
 3. /blockchain
     - 블록체인 계약 주소로 거래 현황 조회 및 파일 변환
     - pip install requests
+    - pip install xrpl-py
 
 4. /gui-boxes
     - gui 용 시스템 제작
