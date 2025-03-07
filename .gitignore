@@ -28,3 +28,6 @@ dist/
 
 # job-search/export 폴더 내의 모든 파일 무시
 /job-search/export/
+
+# /export 폴더 내의 모든 파일 무시
+/export/

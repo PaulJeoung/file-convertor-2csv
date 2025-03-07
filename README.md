@@ -14,9 +14,17 @@
 이후 각 파일들을 실행
 
 1. /job-reasearch
+    - 채용사이트 검색어 검색 및 저장
     - pip install selenium webdriver-manager
     - pip install beautifulsoup4
 
 2. /cloudwatch-file-convert
     - cloudwatch에 있는 데이터를 spreadsheet 파일로 변환
     - pip install pandas
+
+3. /blockchain
+    - 블록체인 계약 주소로 거래 현황 조회 및 파일 변환
+    - pip install requests
+
+4. /gui-boxes
+    - gui 용 시스템 제작
